@@ -5,7 +5,7 @@ namespace Demo\DemoClient\Base;
 use Demo\DemoClient\Application;
 
 /**
- * 身份验证.
+ * Auth 2.0 下的token机制处理.
  */
 class Auth
 {
