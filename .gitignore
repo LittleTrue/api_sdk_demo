@@ -3,3 +3,7 @@
 vendor/
 *.lock
 .DS_Store
+test/
+Test/
+index.php
+test.php
