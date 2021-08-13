@@ -1,0 +1,5 @@
+.idea/
+.git/
+vendor/
+*.lock
+.DS_Store
