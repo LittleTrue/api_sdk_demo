@@ -1,6 +1,7 @@
 {
     "name": "gxz/api_sdk_demo",
     "type": "library",
+    "description": "php封装基于ioc设计的接口通讯组件模板",
     "keywords": [
         "api_sdk_demo",
         "php",
