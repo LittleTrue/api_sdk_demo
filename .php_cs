@@ -10,6 +10,9 @@ return PhpCsFixer\Config::create()
         'array_syntax' => [
             'syntax' => 'short',
         ],
+        'list_syntax' => [
+            'syntax' => 'short',
+        ],
         'concat_space' => [
             'spacing' => 'one',
         ],

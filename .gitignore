@@ -1,9 +1,10 @@
+.vscode/
 .idea/
 .git/
 vendor/
 *.lock
 .DS_Store
-Tests/
-tests/
+index.php
+response.html
 index.php
 test.php
